@@ -33,4 +33,8 @@ int main(){
     else{
         cout<<-1<<endl;
     }
+
+
+    cout << "Time Complexity: O(log n)" << endl;
+    cout << "Space Complexity: O(1)" << endl;
 }
